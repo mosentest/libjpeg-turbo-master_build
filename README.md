@@ -9,6 +9,9 @@ https://github.com/bither/bither-android-lib
 
 所以我自己无聊编译了一次，有armv7，armv8，x86，为什么没有arm？因为我按最新的脚本，脚本没教我怎么编译arm，如下是我最新拉libjpeg-turbo-master看到的脚本命令
 
+参考编译的博客https://segmentfault.com/a/1190000017900195
+
+大佬编译好，写的库有https://github.com/JavaNoober/Light
 
 Building libjpeg-turbo for Android
 ----------------------------------
